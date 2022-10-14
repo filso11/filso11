@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Filipe Sousa, a Developer 🚀 from Brazil.
+## Hi, I'm Filipe Sousa, a Developer 🚀 from Brazil
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -15,13 +15,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-
 - 👨🏽‍💻 I’m currently working on [DCT Security](https://dctsecurity.com.br/);
-- 🌱 I’m currently learning HTML5/CSS3/JAVASCRIPT; 
+- 🌱 I’m currently learning HTML5/CSS3/JAVASCRIPT;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: filso11@filipesousa.com.br;
 
-**Languages and Tools:** 
+**Languages and Tools:**
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
