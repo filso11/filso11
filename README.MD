@@ -22,8 +22,8 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:**
   <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://githubusercontent.com/
   -->
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+  <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
