@@ -15,8 +15,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [DCT Security](https://dctsecurity.com.br/);
 - 🌱 I’m currently learning HTML5/CSS3/JAVASCRIPT; 
