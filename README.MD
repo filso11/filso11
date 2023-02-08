@@ -28,3 +28,4 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
