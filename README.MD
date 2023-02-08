@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [DCT Security](https://dctsecurity.com.br/);
-- 🌱 I’m currently learning HTML5/CSS3/JAVASCRIPT;
+- 🌱 I’m currently learning HTML5/CSS3/JAVASCRIPT and JAVA;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: filso11@filipesousa.com.br;
 
